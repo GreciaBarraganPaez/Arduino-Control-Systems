@@ -2,6 +2,13 @@
 
 Three small educational embedded-systems projects using digital inputs, sensors, servomotors and LEDs, developed during applied robotics coursework.
 
+## Project gallery
+
+![Arduino sensors and actuators project overview](images/arduino-workflow.svg)
+
+*Conceptual overview rather than a photograph of assembled circuits.* To add real hardware photographs or demo videos later, place them in `images/` and link them here with captions identifying the relevant sketch.
+
+
 ## Projects
 
 ### Keypad-controlled servo and colored LEDs
