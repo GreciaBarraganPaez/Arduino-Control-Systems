@@ -4,7 +4,6 @@ Three small educational embedded-systems projects using digital inputs, sensors,
 
 ## Project gallery
 
-![Arduino sensors and actuators project overview](images/arduino-workflow.svg)
 
 *Conceptual overview rather than a photograph of assembled circuits.* To add real hardware photographs or demo videos later, place them in `images/` and link them here with captions identifying the relevant sketch.
 
@@ -37,3 +36,8 @@ Hardware details and reproducible test results were not recorded with the source
 
 ## Skills
 Arduino · C/C++ · Embedded Systems · Sensors · Actuators · Digital I/O
+
+
+## Experimental images
+
+No experimentally verified images are included yet. Real code outputs (or photographs of the actual hardware for Arduino) will be added when available. Conceptual diagrams are not presented as measured results.
